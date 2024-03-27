@@ -1,0 +1,4 @@
+[submodule "waynemaranga.com/public"]
+	path = waynemaranga.com/public
+	url = https://github.com/waynemaranga/waynemaranga.github.io.git
+	branch = main
