@@ -1,0 +1,4 @@
+baseURL = 'https://waynemaranga.github.io/'
+languageCode = 'en-us'
+title = 'Wayne Maranga'
+theme = 'nightfall'
