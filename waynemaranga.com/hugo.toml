@@ -2,3 +2,36 @@ baseURL = 'https://waynemaranga.github.io/'
 languageCode = 'en-us'
 title = 'Wayne Maranga'
 theme = 'nightfall'
+
+[menu]
+[[menu.header]]
+name = "blog"
+weight = 0
+url = "posts" #TODO: change the blog/posts page to the right template
+[[menu.header]]
+# name = "about"
+# weight = 1
+# url = "about"
+[[menu.header]]
+name = "cv"
+weight = 1
+# url = "" # should be posts/cv
+
+[params]
+user = "Wayne Maranga"
+hostname = ""
+[params.author]
+name = "Wayne Maranga"           # Website and RSS feed author
+email = "waynemaranga@gmail.com" # RSS feed email address
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/waynemaranga"
+[[params.social]]
+key = 1
+name = "linkedin"
+url = "https://www.linkedin.com/in/wayne-maranga-462277166/"
+[[params.social]]
+key = 2
+name = "email"
+url = "mailto:waynemaranga@gmail.com"
