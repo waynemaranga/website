@@ -1,0 +1,1 @@
+- file paths in layouts and templates/partial should be *as they would appear* i.e the directory structure in the layouts viz. the relative file paths should be the rlshp btwn the live site i.e in the public dir, not in the builder site
